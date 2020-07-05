@@ -38,6 +38,8 @@ struct TreeNode {
 
 class Solution {
  public:
+  int arrangeCoins(int n) { return (round(sqrt(8 * n + 1)) - 1) / 2; }
+  // return (int)(Math.sqrt(2 * (long)n + 0.25) - 0.5);
 };
 
 int main(int argc, char* argv[]) {

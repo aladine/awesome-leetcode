@@ -79,42 +79,56 @@ typedef vector<string> vs;
 // @lc code=start
 class Solution {
  public:
-  void dfsDecoding(string s, int st, int cur, int &res) {
-    if (st == s.length()) {
-      // cout << cur << endl;
-      res += cur;
-      return;
-    }
+  const int M = 1e9 + 7;
 
-    switch (s[st]) {
-      case '*': {  //
-      } break;
-      case '1': {  //
-      } break;
-      case '2': {  //
-      } break;
-        if (st + 1 < s.length()) {
-          cur += s[st];
-          dfsDecoding(s, st + 1, cur, res);
-          if (s[st + 1] < '7')
-            dfsDecoding(s, st + 2, cur, res);
-          else if (s[st + 1] == '*') {
-            dfsDecoding(s, st + 2, 3 * cur, res);
-            dfsDecoding(s, st + 2, 6 * cur, res);
-          }
-        }
-      default: {
-        cur += s[st];
-        dfsDecoding(s, st + 1, cur, res);
-      } break;
-    }
-  }
-
+  void addMod(long &a, long b) { a = (a + b) % M; }
   int numDecodings(string s) {
     const int N = s.length();
+    if (N == 0) {
+      return 0;
+    }
     int res = 0;
-    dfsDecoding(s, 0, "", res);
-    return res;
+    vector<long> nums(N + 1, 0);
+    reverse(s.begin(), s.end());
+    nums[0] = 1;
+    nums[1] = s[0] == '*' ? 9 : (s[0] == '0' ? 0 : 1);
+    for (int i = 2; i <= N; ++i) {
+      long tmp = nums[i - 1];
+      switch (s[i - 1]) {
+        case '0':
+          tmp = 0;
+          break;
+
+        case '*': {
+          addMod(tmp, 8 * nums[i - 1]);
+
+          if (s[i - 2] == '*') {
+            addMod(tmp, 15 * nums[i - 2]);
+          } else if (s[i - 2] < '7') {
+            addMod(tmp, 2 * nums[i - 2]);
+          } else {
+            addMod(tmp, nums[i - 2]);
+          }
+        } break;
+
+        case '1': {
+          addMod(tmp, (s[i - 2] == '*' ? 9 : 1) * nums[i - 2]);
+        } break;
+
+        case '2': {
+          if (s[i - 2] == '*') {
+            addMod(tmp, 6 * nums[i - 2]);
+          } else if (s[i - 2] < '7') {
+            addMod(tmp, nums[i - 2]);
+          }
+        } break;
+
+        default:
+          break;
+      }
+      nums[i] = tmp % M;
+    }
+    return nums[N];
   }
 };
 // @lc code=end
