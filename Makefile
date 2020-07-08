@@ -2,7 +2,7 @@ CXX      = g++
 CPPFLAGS = -Wall -std=c++11 -O2
 LD_FLAGS =
 
-FILE     = algoexpert/05-jul
+FILE     = algoexpert/08-jul
 # FILE     = contest/contest-195
 SOURCES  = $(FILE).cpp
 OBJECTS  = $(SOURCES:.cpp=.o)
