@@ -67,30 +67,27 @@ struct TreeNode {
 
 // @lc code=start
 class Solution {
-public:
- int maxProfit(vector<int>& prices, int fee) {
-   const int N = prices.size();
-   int k = N / 2;
-   vector<vi> dp(k + 1, vector<int>(N, 0));
-   int res = 0;
+ public:
+  int maxProfit(vector<int>& prices, int fee) {
+    const int N = prices.size();
+    int k = N / 2;
+    int res = 0;
 
-   // sell at position i
-   for (int i = 1; i <= k; i++) {
-     for (int j = 1; j < N; j++) {
-       dp[i][j] = dp[i - 1][j];
-       int msf = 0;
-       for (int l = 0; l < j; ++l) {
-         if (l) msf = max(msf, dp[i - 1][l - 1]);
-         if (prices[l] <= prices[j]) {
-           dp[i][j] = max(dp[i][j], msf + prices[j] - prices[l] - fee);
-         }
-       }
-       res = max(res, dp[i][j]);
-     }
-   }
+    vector<int> currProfits(N, 0);
+    vector<int> tmpProfits(N);
 
-   return res;
- }
+    for (int i = 1; i <= k; i++) {
+      tmpProfits = currProfits;
+      int maxSoFar = INT_MIN;
+
+      for (int j = 1; j < N; j++) {
+        maxSoFar = max(maxSoFar, tmpProfits[j - 1] - prices[j - 1] + fee);
+        currProfits[j] = max(currProfits[j], maxSoFar + prices[j] - fee);
+      }
+    }
+
+    return currProfits[N - 1];
+  }
+  // OR: use a hold and sell array for each day O(n) time complexity
 };
 // @lc code=end
-

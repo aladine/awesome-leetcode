@@ -60,6 +60,7 @@ class Solution {
     if (scores[a][b] != -1) {
       return scores[a][b];
     }
+
     int score = -1;
     for (int i = 0; i < 4; ++i) {
       int x = a + dirs[i];

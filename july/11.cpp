@@ -175,12 +175,6 @@ class Solution {
     }
     return 1 + getTreeSize(r->left) + getTreeSize(r->right);
   }
-
-  // https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
-     string minRemoveToMakeValid(string s) {
-       string ans;
-       return ans;
-    }
 };
 
 int main(int argc, char* argv[]) {
