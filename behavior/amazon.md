@@ -1,55 +1,57 @@
 
 # Table of Contents
 
--   [Popular questions](#org946d92e)
-    -   [Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?](#org0b84707)
-    -   [Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?](#orged62daa)
-    -   [Give me an example of a time when you set a goal and were able to meet or achieve it](#org2531580)
-    -   [Tell me about a time you had to quickly adjust your work priorities to meet changing demands.](#org51f60ce)
-    -   [Tell me an example when you push back to HQ or challenged a decision](#orge403978)
-    -   [Tell me about the toughest decision you&rsquo;ve had to make in the past six months](#org0ca80b9)
-    -   [Tell me about a decision that you regret.](#orgab37fdb)
-    -   [What did you do when you needed to motivate a group of individuals?](#org4dc4995)
-    -   [Tell me about a time you stepped up into a leadership role](#org3f43a9e)
-    -   [Do you collaborate well?](#org71de0a2)
-    -   [Describe a situation when you negotiated with others in your organization to reach agreement.](#org6f1a2fa)
-    -   [We&rsquo;ve all had to work with people that don&rsquo;t like us. How do you deal with someone that doesn&rsquo;t like you?](#org86e6bee)
-    -   [We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.](#org2989b72)
-    -   [The last time you had to apologize to someone](#org3640a6b)
-    -   [Give me an example of a time you faced a conflict while working on a team. How did you handle that?](#org0ebcccb)
-    -   [Tell me about a time when you received negative feedback from your manager. How did you respond?](#org9706b37)
-    -   [Tell me about a time when you missed an obvious solution to a problem](#org4b12788)
-    -   [A time when you faced a problem that had multiple possible solutions](#orge03fac4)
-    -   [Tell me about a time when you came up with a new approach to a problem.](#orge803036)
-    -   [Describe a time when you anticipated potential problems and developed preventive measures.](#org7b1833d)
-    -   [Describe a situation in which you found a creative way to overcome an obstacle.](#org445bf09)
-    -   [How have you leveraged data to develop a strategy?](#orgdc7f177)
-    -   [Tell me a time when you were 75% through a project, & you had to pivot strategy](#orgbb905a5)
-    -   [Tell me about a time when you had to choose between technologies for a project](#org28d46af)
-    -   [Tell me about a time you had to deal with ambiguity](#org3099973)
-    -   [What’s the most innovative new idea that you have implemented?](#orgfa21260)
-    -   [Describe a time when you sacrificed short term goals for long term success](#org0ceb945)
-    -   [Provide an example of when you personally demonstrate ownership.](#orgc42f475)
-    -   [What&rsquo;s your greatest strength](#org82e6267)
-    -   [Biggest weakness](#org1d2e318)
-    -   [We all deal with difficult customers from time to time. Tell me about a challenging client-facing situation and how you handled it.](#orgc8caed0)
-    -   [How do you show customer obsession?](#org82024f7)
-    -   [Tell me about a time you recovered from a difficult situation](#orgc07f038)
-    -   [Tell me about a time you failed and what you learned from it](#org1a95421)
-    -   [Why Amazon](#org15d69b6)
+-   [Popular questions with STAR template](#orgb3d8ef0)
+    -   [Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?](#org93f5d75)
+    -   [Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?](#orgec767d3)
+    -   [Give me an example of a time when you set a goal and were able to meet or achieve it](#orgaefdbb3)
+    -   [Tell me about a time you had to quickly adjust your work priorities to meet changing demands.](#org132ad52)
+    -   [Tell me an example when you push back to HQ or challenged a decision](#orgfdf35b8)
+    -   [Tell me about the toughest decision you&rsquo;ve had to make in the past six months](#org4c7109d)
+    -   [Tell me about a decision that you regret.](#org1665d0e)
+    -   [What did you do when you needed to motivate a group of individuals?](#orgc483805)
+    -   [Tell me about a time you stepped up into a leadership role](#orge7a3b5b)
+    -   [Do you collaborate well?](#org70a4f95)
+    -   [Describe a situation when you negotiated with others in your organization to reach agreement.](#org44c0aa1)
+    -   [We&rsquo;ve all had to work with people that don&rsquo;t like us. How do you deal with someone that doesn&rsquo;t like you?](#orgcf1b1eb)
+    -   [We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.](#orgd2f7a2b)
+    -   [The last time you had to apologize to someone](#org644f5b4)
+    -   [Give me an example of a time you faced a conflict while working on a team. How did you handle that?](#orgbf1b76f)
+    -   [Tell me about a time when you received negative feedback from your manager. How did you respond?](#orgb07c3b9)
+    -   [Tell me about a time when you missed an obvious solution to a problem](#org6fd8271)
+    -   [A time when you faced a problem that had multiple possible solutions](#org4a4fe96)
+    -   [Tell me about a time when you came up with a new approach to a problem.](#orge9c137e)
+    -   [Describe a time when you anticipated potential problems and developed preventive measures.](#org6b77ec9)
+    -   [Describe a situation in which you found a creative way to overcome an obstacle.](#org8de9fbb)
+    -   [How have you leveraged data to develop a strategy?](#org9aaa66b)
+    -   [Tell me a time when you were 75% through a project, & you had to pivot strategy](#org4504d8c)
+    -   [Tell me about a time when you had to choose between technologies for a project](#orgef7386b)
+    -   [Tell me about a time you had to deal with ambiguity](#orgab0baa6)
+    -   [What’s the most innovative new idea that you have implemented?](#org57e83a8)
+    -   [Describe a time when you sacrificed short term goals for long term success](#org2f73402)
+    -   [Provide an example of when you personally demonstrate ownership.](#orgefc8caa)
+    -   [What&rsquo;s your greatest strength](#org1984723)
+    -   [Biggest weakness](#org1b2df63)
+    -   [We all deal with difficult customers from time to time. Tell me about a challenging client-facing situation and how you handled it.](#orgd0c476b)
+    -   [How do you show customer obsession?](#orgbec4889)
+    -   [Tell me about a time you recovered from a difficult situation](#orga91ffc5)
+    -   [Tell me about a time you failed and what you learned from it](#orgff6b03a)
+    -   [Why Amazon](#org15737af)
+-   [General tips](#orgb5c9c70)
+-   [Resources](#org12bd0c6)
 
 
 
-<a id="org946d92e"></a>
+<a id="orgb3d8ef0"></a>
 
-# Popular questions
+# Popular questions with STAR template
 
 
-<a id="org0b84707"></a>
+<a id="org93f5d75"></a>
 
 ## Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?
 
-Sample: <https://youtu.be/CQG4Ui0oAmk>
+Sample answer: <https://youtu.be/CQG4Ui0oAmk>
 
 -   Situation:
 -   Task:
@@ -57,7 +59,7 @@ Sample: <https://youtu.be/CQG4Ui0oAmk>
 -   Result:
 
 
-<a id="orged62daa"></a>
+<a id="orgec767d3"></a>
 
 ## Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 
@@ -67,7 +69,7 @@ Sample: <https://youtu.be/CQG4Ui0oAmk>
 -   Result:
 
 
-<a id="org2531580"></a>
+<a id="orgaefdbb3"></a>
 
 ## Give me an example of a time when you set a goal and were able to meet or achieve it
 
@@ -77,11 +79,11 @@ Sample: <https://youtu.be/CQG4Ui0oAmk>
 -   Result:
 
 
-<a id="org51f60ce"></a>
+<a id="org132ad52"></a>
 
 ## Tell me about a time you had to quickly adjust your work priorities to meet changing demands.
 
-Sample: <https://youtu.be/ys7fLcH5gpg>
+Sample answer: <https://youtu.be/ys7fLcH5gpg>
 
 -   Situation:
 -   Task:
@@ -89,7 +91,7 @@ Sample: <https://youtu.be/ys7fLcH5gpg>
 -   Result:
 
 
-<a id="orge403978"></a>
+<a id="orgfdf35b8"></a>
 
 ## Tell me an example when you push back to HQ or challenged a decision
 
@@ -99,7 +101,7 @@ Sample: <https://youtu.be/ys7fLcH5gpg>
 -   Result:
 
 
-<a id="org0ca80b9"></a>
+<a id="org4c7109d"></a>
 
 ## Tell me about the toughest decision you&rsquo;ve had to make in the past six months
 
@@ -109,11 +111,11 @@ Sample: <https://youtu.be/ys7fLcH5gpg>
 -   Result:
 
 
-<a id="orgab37fdb"></a>
+<a id="org1665d0e"></a>
 
 ## Tell me about a decision that you regret.
 
-Sample: <https://youtu.be/3NExTeMnobU>
+Sample answer: <https://youtu.be/3NExTeMnobU>
 
 -   Situation:
 -   Task:
@@ -121,7 +123,7 @@ Sample: <https://youtu.be/3NExTeMnobU>
 -   Result:
 
 
-<a id="org4dc4995"></a>
+<a id="orgc483805"></a>
 
 ## What did you do when you needed to motivate a group of individuals?
 
@@ -131,11 +133,11 @@ Sample: <https://youtu.be/3NExTeMnobU>
 -   Result:
 
 
-<a id="org3f43a9e"></a>
+<a id="orge7a3b5b"></a>
 
 ## Tell me about a time you stepped up into a leadership role
 
-Sample: <https://youtu.be/Tg6BVRTsuic>
+Sample answer: <https://youtu.be/Tg6BVRTsuic>
 
 -   Situation:
 -   Task:
@@ -143,11 +145,11 @@ Sample: <https://youtu.be/Tg6BVRTsuic>
 -   Result:
 
 
-<a id="org71de0a2"></a>
+<a id="org70a4f95"></a>
 
 ## Do you collaborate well?
 
-Sample: <https://youtu.be/UJXkaide9bU>
+Sample answer: <https://youtu.be/UJXkaide9bU>
 
 -   Situation:
 -   Task:
@@ -155,7 +157,7 @@ Sample: <https://youtu.be/UJXkaide9bU>
 -   Result:
 
 
-<a id="org6f1a2fa"></a>
+<a id="org44c0aa1"></a>
 
 ## Describe a situation when you negotiated with others in your organization to reach agreement.
 
@@ -165,11 +167,11 @@ Sample: <https://youtu.be/UJXkaide9bU>
 -   Result:
 
 
-<a id="org86e6bee"></a>
+<a id="orgcf1b1eb"></a>
 
 ## We&rsquo;ve all had to work with people that don&rsquo;t like us. How do you deal with someone that doesn&rsquo;t like you?
 
-Sample: <https://youtu.be/ZsxkoZdyEcw>
+Sample answer: <https://youtu.be/ZsxkoZdyEcw>
 
 -   Situation:
 -   Task:
@@ -177,7 +179,7 @@ Sample: <https://youtu.be/ZsxkoZdyEcw>
 -   Result:
 
 
-<a id="org2989b72"></a>
+<a id="orgd2f7a2b"></a>
 
 ## We all make mistakes we wish we could take back. Tell me about a time you wish you’d handled a situation differently with a colleague.
 
@@ -187,7 +189,7 @@ Sample: <https://youtu.be/ZsxkoZdyEcw>
 -   Result:
 
 
-<a id="org3640a6b"></a>
+<a id="org644f5b4"></a>
 
 ## The last time you had to apologize to someone
 
@@ -197,11 +199,11 @@ Sample: <https://youtu.be/ZsxkoZdyEcw>
 -   Result:
 
 
-<a id="org0ebcccb"></a>
+<a id="orgbf1b76f"></a>
 
 ## Give me an example of a time you faced a conflict while working on a team. How did you handle that?
 
-Sample: <https://youtu.be/Zz8iQ852YMs>
+Sample answer: <https://youtu.be/Zz8iQ852YMs>
 
 -   Situation:
 -   Task:
@@ -209,11 +211,11 @@ Sample: <https://youtu.be/Zz8iQ852YMs>
 -   Result:
 
 
-<a id="org9706b37"></a>
+<a id="orgb07c3b9"></a>
 
 ## Tell me about a time when you received negative feedback from your manager. How did you respond?
 
-Sample: <https://youtu.be/Zz8iQ852YMs>
+Sample answer: <https://youtu.be/Zz8iQ852YMs>
 
 -   Situation:
 -   Task:
@@ -221,7 +223,7 @@ Sample: <https://youtu.be/Zz8iQ852YMs>
 -   Result:
 
 
-<a id="org4b12788"></a>
+<a id="org6fd8271"></a>
 
 ## Tell me about a time when you missed an obvious solution to a problem
 
@@ -231,7 +233,7 @@ Sample: <https://youtu.be/Zz8iQ852YMs>
 -   Result:
 
 
-<a id="orge03fac4"></a>
+<a id="org4a4fe96"></a>
 
 ## A time when you faced a problem that had multiple possible solutions
 
@@ -241,11 +243,11 @@ Sample: <https://youtu.be/Zz8iQ852YMs>
 -   Result:
 
 
-<a id="orge803036"></a>
+<a id="orge9c137e"></a>
 
 ## Tell me about a time when you came up with a new approach to a problem.
 
-Sample: <https://youtu.be/2XxCUain1IU>
+Sample answer: <https://youtu.be/2XxCUain1IU>
 
 -   Situation:
 -   Task:
@@ -253,7 +255,7 @@ Sample: <https://youtu.be/2XxCUain1IU>
 -   Result:
 
 
-<a id="org7b1833d"></a>
+<a id="org6b77ec9"></a>
 
 ## Describe a time when you anticipated potential problems and developed preventive measures.
 
@@ -263,7 +265,7 @@ Sample: <https://youtu.be/2XxCUain1IU>
 -   Result:
 
 
-<a id="org445bf09"></a>
+<a id="org8de9fbb"></a>
 
 ## Describe a situation in which you found a creative way to overcome an obstacle.
 
@@ -273,11 +275,11 @@ Sample: <https://youtu.be/2XxCUain1IU>
 -   Result:
 
 
-<a id="orgdc7f177"></a>
+<a id="org9aaa66b"></a>
 
 ## How have you leveraged data to develop a strategy?
 
-Sample: <https://youtu.be/oRGKHTiM29E>
+Sample answer: <https://youtu.be/oRGKHTiM29E>
 
 -   Situation:
 -   Task:
@@ -285,7 +287,7 @@ Sample: <https://youtu.be/oRGKHTiM29E>
 -   Result:
 
 
-<a id="orgbb905a5"></a>
+<a id="org4504d8c"></a>
 
 ## Tell me a time when you were 75% through a project, & you had to pivot strategy
 
@@ -295,7 +297,7 @@ Sample: <https://youtu.be/oRGKHTiM29E>
 -   Result:
 
 
-<a id="org28d46af"></a>
+<a id="orgef7386b"></a>
 
 ## Tell me about a time when you had to choose between technologies for a project
 
@@ -305,7 +307,7 @@ Sample: <https://youtu.be/oRGKHTiM29E>
 -   Result:
 
 
-<a id="org3099973"></a>
+<a id="orgab0baa6"></a>
 
 ## Tell me about a time you had to deal with ambiguity
 
@@ -315,11 +317,11 @@ Sample: <https://youtu.be/oRGKHTiM29E>
 -   Result:
 
 
-<a id="orgfa21260"></a>
+<a id="org57e83a8"></a>
 
 ## What’s the most innovative new idea that you have implemented?
 
-Sample: <https://youtu.be/774ovkE2y5I>
+Sample answer: <https://youtu.be/774ovkE2y5I>
 
 -   Situation:
 -   Task:
@@ -327,7 +329,7 @@ Sample: <https://youtu.be/774ovkE2y5I>
 -   Result:
 
 
-<a id="org0ceb945"></a>
+<a id="org2f73402"></a>
 
 ## Describe a time when you sacrificed short term goals for long term success
 
@@ -337,11 +339,11 @@ Sample: <https://youtu.be/774ovkE2y5I>
 -   Result:
 
 
-<a id="orgc42f475"></a>
+<a id="orgefc8caa"></a>
 
 ## Provide an example of when you personally demonstrate ownership.
 
-Sample: <https://youtu.be/Rn3EjvukTkI>
+Sample answer: <https://youtu.be/Rn3EjvukTkI>
 
 -   Situation:
 -   Task:
@@ -349,11 +351,11 @@ Sample: <https://youtu.be/Rn3EjvukTkI>
 -   Result:
 
 
-<a id="org82e6267"></a>
+<a id="org1984723"></a>
 
 ## What&rsquo;s your greatest strength
 
-Sample: <https://youtu.be/q8fK73QjmbA>
+Sample answer: <https://youtu.be/q8fK73QjmbA>
 
 -   Situation:
 -   Task:
@@ -361,11 +363,11 @@ Sample: <https://youtu.be/q8fK73QjmbA>
 -   Result:
 
 
-<a id="org1d2e318"></a>
+<a id="org1b2df63"></a>
 
 ## Biggest weakness
 
-Sample: <https://youtu.be/q8fK73QjmbA>
+Sample answer: <https://youtu.be/q8fK73QjmbA>
 
 -   Situation:
 -   Task:
@@ -373,7 +375,7 @@ Sample: <https://youtu.be/q8fK73QjmbA>
 -   Result:
 
 
-<a id="orgc8caed0"></a>
+<a id="orgd0c476b"></a>
 
 ## We all deal with difficult customers from time to time. Tell me about a challenging client-facing situation and how you handled it.
 
@@ -383,7 +385,7 @@ Sample: <https://youtu.be/q8fK73QjmbA>
 -   Result:
 
 
-<a id="org82024f7"></a>
+<a id="orgbec4889"></a>
 
 ## How do you show customer obsession?
 
@@ -393,7 +395,7 @@ Sample: <https://youtu.be/q8fK73QjmbA>
 -   Result:
 
 
-<a id="orgc07f038"></a>
+<a id="orga91ffc5"></a>
 
 ## Tell me about a time you recovered from a difficult situation
 
@@ -403,11 +405,11 @@ Sample: <https://youtu.be/q8fK73QjmbA>
 -   Result:
 
 
-<a id="org1a95421"></a>
+<a id="orgff6b03a"></a>
 
 ## Tell me about a time you failed and what you learned from it
 
-Sample: <https://youtu.be/eaUUeFoB9CQ>
+Sample answer: <https://youtu.be/eaUUeFoB9CQ>
 
 -   Situation:
 -   Task:
@@ -415,9 +417,28 @@ Sample: <https://youtu.be/eaUUeFoB9CQ>
 -   Result:
 
 
-<a id="org15d69b6"></a>
+<a id="org15737af"></a>
 
 ## Why Amazon
 
-Sample: <https://youtu.be/H_KGM0i9jkA>
+Sample answer: <https://youtu.be/H_KGM0i9jkA>
+
+
+<a id="orgb5c9c70"></a>
+
+# General tips
+
+-   Shouldn&rsquo;t use “we” instead of “I”
+-   Practice and rehearse often
+-   Be specific in terms of quantifying results: for example, after completion the project, the latency reduce 50% and the service is able to handle 2x traffic
+-   Be positive: especially in question of failure, what is most important is what you learn from past mistakes.
+-   Study 14 leadership principles. For engineer role, you can skip 2 principles: hire and develop the best, frugality.
+
+
+<a id="org12bd0c6"></a>
+
+# Resources
+
+-   Algo Expert: <https://www.algoexpert.io/behavioral-interviews>
+-   Dan Croitor&rsquo;s Youtube channel: <https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ>
 

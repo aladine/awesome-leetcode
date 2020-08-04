@@ -5,9 +5,9 @@
 #+OPTIONS: ^:nil num:nil
 #+SETUPFILE: ~/Documents/org/img/theme-notes.setup
 
-* Popular questions
+* Popular questions with STAR template
 ** Tell me about a time when you were not able to meet a time commitment. What prevented you from meeting it? What was the outcome and what did you learn from it?
-Sample: https://youtu.be/CQG4Ui0oAmk
+Sample answer: https://youtu.be/CQG4Ui0oAmk
 - Situation: 
 - Task:
 - Action:
@@ -23,7 +23,7 @@ Sample: https://youtu.be/CQG4Ui0oAmk
 - Action:
 - Result:
 ** Tell me about a time you had to quickly adjust your work priorities to meet changing demands.
-Sample: https://youtu.be/ys7fLcH5gpg
+Sample answer: https://youtu.be/ys7fLcH5gpg
 - Situation: 
 - Task:
 - Action:
@@ -39,7 +39,7 @@ Sample: https://youtu.be/ys7fLcH5gpg
 - Action:
 - Result:
 ** Tell me about a decision that you regret.
-Sample: https://youtu.be/3NExTeMnobU
+Sample answer: https://youtu.be/3NExTeMnobU
 - Situation:
 - Task:
 - Action:
@@ -50,13 +50,13 @@ Sample: https://youtu.be/3NExTeMnobU
 - Action:
 - Result:
 ** Tell me about a time you stepped up into a leadership role
-Sample: https://youtu.be/Tg6BVRTsuic
+Sample answer: https://youtu.be/Tg6BVRTsuic
 - Situation: 
 - Task:
 - Action:
 - Result:
 ** Do you collaborate well?
-Sample: https://youtu.be/UJXkaide9bU
+Sample answer: https://youtu.be/UJXkaide9bU
 - Situation: 
 - Task:
 - Action:
@@ -67,7 +67,7 @@ Sample: https://youtu.be/UJXkaide9bU
 - Action: 
 - Result:
 ** We've all had to work with people that don't like us. How do you deal with someone that doesn't like you?
-Sample: https://youtu.be/ZsxkoZdyEcw
+Sample answer: https://youtu.be/ZsxkoZdyEcw
 - Situation:
 - Task:
 - Action:
@@ -82,15 +82,14 @@ Sample: https://youtu.be/ZsxkoZdyEcw
 - Task:
 - Action:
 - Result:
-
 ** Give me an example of a time you faced a conflict while working on a team. How did you handle that?
-Sample: https://youtu.be/Zz8iQ852YMs
+Sample answer: https://youtu.be/Zz8iQ852YMs
 - Situation:
 - Task:
 - Action:
 - Result: 
 ** Tell me about a time when you received negative feedback from your manager. How did you respond?
-Sample: https://youtu.be/Zz8iQ852YMs
+Sample answer: https://youtu.be/Zz8iQ852YMs
 - Situation: 
 - Task:
 - Action:
@@ -106,76 +105,68 @@ Sample: https://youtu.be/Zz8iQ852YMs
 - Action:
 - Result:
 ** Tell me about a time when you came up with a new approach to a problem.
-Sample: https://youtu.be/2XxCUain1IU
+Sample answer: https://youtu.be/2XxCUain1IU
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Describe a time when you anticipated potential problems and developed preventive measures.
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Describe a situation in which you found a creative way to overcome an obstacle.
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** How have you leveraged data to develop a strategy?
-Sample: https://youtu.be/oRGKHTiM29E
+Sample answer: https://youtu.be/oRGKHTiM29E
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Tell me a time when you were 75% through a project, & you had to pivot strategy
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Tell me about a time when you had to choose between technologies for a project
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Tell me about a time you had to deal with ambiguity
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** What’s the most innovative new idea that you have implemented?
-Sample: https://youtu.be/774ovkE2y5I
+Sample answer: https://youtu.be/774ovkE2y5I
 - Situation: 
 - Task:
 - Action:
 - Result:
-
 ** Describe a time when you sacrificed short term goals for long term success
 - Situation: 
 - Task:
 - Action:
 - Result:
 ** Provide an example of when you personally demonstrate ownership.
-Sample: https://youtu.be/Rn3EjvukTkI
+Sample answer: https://youtu.be/Rn3EjvukTkI
 - Situation: 
 - Task:
 - Action:
 - Result:
 
 ** What's your greatest strength
-Sample: https://youtu.be/q8fK73QjmbA
+Sample answer: https://youtu.be/q8fK73QjmbA
 - Situation: 
 - Task:
 - Action:
 - Result:
 ** Biggest weakness
-Sample: https://youtu.be/q8fK73QjmbA
+Sample answer: https://youtu.be/q8fK73QjmbA
 - Situation: 
 - Task:
 - Action:
@@ -196,10 +187,19 @@ Sample: https://youtu.be/q8fK73QjmbA
 - Action:
 - Result:
 ** Tell me about a time you failed and what you learned from it
-Sample: https://youtu.be/eaUUeFoB9CQ
+Sample answer: https://youtu.be/eaUUeFoB9CQ
 - Situation:
 - Task:
 - Action:
 - Result:
 ** Why Amazon
-Sample: https://youtu.be/H_KGM0i9jkA
+Sample answer: https://youtu.be/H_KGM0i9jkA
+* General tips
+- Shouldn't use “we” instead of “I”
+- Practice and rehearse often
+- Be specific in terms of quantifying results: for example, after completion the project, the latency reduce 50% and the service is able to handle 2x traffic
+- Be positive: especially in question of failure, what is most important is what you learn from past mistakes.
+- Study 14 leadership principles. For engineer role, you can skip 2 principles: hire and develop the best, frugality.
+* Resources
+- Algo Expert: https://www.algoexpert.io/behavioral-interviews
+- Dan Croitor's Youtube channel: https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ
