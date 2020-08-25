@@ -158,7 +158,6 @@ Sample answer: https://youtu.be/Rn3EjvukTkI
 - Task:
 - Action:
 - Result:
-
 ** What's your greatest strength
 Sample answer: https://youtu.be/q8fK73QjmbA
 - Situation: 

@@ -118,8 +118,6 @@ bool hasSingleCycle(vector<int> array) {
     i = (i + array[i]) % N;
   }
   return counter == N;
-
-  return true;
 }
 
 class AncestralTree {
