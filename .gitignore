@@ -156,3 +156,4 @@ archive/
 */.DS_Store
 .ccls-cache/
 .clang_complete
+.idea/
