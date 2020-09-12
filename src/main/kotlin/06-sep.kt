@@ -4,8 +4,6 @@ class Solution06Sep {
         val aOnes= mutableListOf<Coor>()
         val bOnes= mutableListOf<Coor>()
         val vectors= mutableListOf<Coor>()
-        val r = A.size
-        val c = A[0].size
         for (i in A.indices){
             for (j in A[0].indices){
                 if(A[i][j] == 1) aOnes.add(Coor(i,j))
